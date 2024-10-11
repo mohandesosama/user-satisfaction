@@ -8,7 +8,6 @@ Each CSV file contains the following fields:
 
 - **user_id**: A unique identifier for each user. This helps distinguish each user in the dataset.
 - **group**: Indicates whether the user belongs to the control group or the experimental group. The value is either "control" or "experimental".
-- **department**: The department that each user is part of. This could represent different divisions or teams within an organization.
 - **timestamp**: A timestamp that records the exact time when a user interacted with the website. This helps in analyzing peak usage times and trends.
 - **landing_page**: The page where the user initially landed:
   - "old page" for users in the control group.
